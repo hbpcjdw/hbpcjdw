@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Point of Sales (POS)**
+ 🔭 I’m currently working on **central central bank of indonesia**
  
  🌱 I’m currently learning **AWS**
 
