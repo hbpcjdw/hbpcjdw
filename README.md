@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+Hallo!+👋+I'Herlambang!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+Hallo!+👋+I'm+Herlambang!;" />
 </h1>
 
 <h3 align="center">A software developer from Indonesia 🇮🇩, Merdeka !!!</h3>
@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **central central bank of indonesia**
+🔭 I’m currently working on **central central bank of indonesia**
  
- 🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **AWS**
 
 💬 Ask me about **Node.js, React, Vue, Firebase... or anything [here](mailto:herlambangbp123@gmail.com)**
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://linktr.ee/herlambangbp123" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -45,7 +45,11 @@
 <hr/>
 
 <div align="center">
-<a href='https://saweria.co/hbp123' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at saweria' /></a>
+  <a href='https://saweria.co/hbp123' target='_blank'>
+    <img src='https://img.shields.io/badge/Donasi-Saweria-F2800D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white' alt='Dukung saya di Saweria' />
+  </a>
+  <a href='https://saweria.co/widgets/leaderboard?streamKey=b5e31f5f465df42e65a069239b3681fc' target='_blank'>
+    <img src='https://img.shields.io/badge/Leaderboard-Saweria-1DA1F2?style=for-the-badge&logo=trophy&logoColor=white' alt='Lihat Leaderboard Saweria' />
+  </a>
 </div>
-
 <br/>
