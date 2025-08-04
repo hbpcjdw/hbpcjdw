@@ -7,7 +7,7 @@
 <div align="center">
  <p>🔭 I’m currently working on **central central bank of indonesia**</p>
  <p>🌱 I’m currently learning **AWS**</p>
- <p>💬 Ask me about **Node.js, React, Vue, Firebase... or anything [here](mailto:herlambangbp123@gmail.com)**</p>
+ <p>💬 Ask me about <strong>Node.js, React, Vue, Firebase...</strong> or anything <a href="mailto:herlambangbp123@gmail.com">here</a>.</p>
  <p>⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**</p>
  </div>
 <div align="center"> 
