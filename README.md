@@ -5,10 +5,10 @@
 <h3 align="center">A software developer from Indonesia 🇮🇩, Merdeka !!!</h3>
 <br/>
 <div align="center">
- 🔭 I’m currently working on **central central bank of indonesia**
- 🌱 I’m currently learning **AWS**
-💬 Ask me about **Node.js, React, Vue, Firebase... or anything [here](mailto:herlambangbp123@gmail.com)**
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ <p>🔭 I’m currently working on **central central bank of indonesia**</p>
+ <p>🌱 I’m currently learning **AWS**</p>
+ <p>💬 Ask me about **Node.js, React, Vue, Firebase... or anything [here](mailto:herlambangbp123@gmail.com)**</p>
+ <p>⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**</p>
  </div>
 <div align="center"> 
   <a href="mailto:herlambangbp123@gmail.com">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://linktr.ee/herlambangbp123" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
  <hr/>
